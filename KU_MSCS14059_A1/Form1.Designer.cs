@@ -133,7 +133,7 @@
             this.Controls.Add(this.btn_execute);
             this.MaximizeBox = false;
             this.Name = "olx_html_scrapper_chrome";
-            this.Text = "Web -Scrapper v.2.0";
+            this.Text = "Olx.com.pk -Scrapper";
             this.Load += new System.EventHandler(this.olx_html_scrapper_chrome_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
